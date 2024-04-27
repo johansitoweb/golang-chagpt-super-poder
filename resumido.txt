@@ -1,0 +1,7 @@
+
+
+OOP (Orientación a Objetos) es un paradigma de programación 
+enfocado en el uso de objetos orientados a la programación para crear software, 
+lo cual permite una mejor modularización, reutilización y mantenimiento del código. 
+Esta forma de programación utiliza conceptos como herencia, encapsulamiento, polimorfismo y 
+abstracción, lo que simplifica el proceso de creación y mantenimiento del código.

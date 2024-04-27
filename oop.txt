@@ -1,0 +1,11 @@
+
+
+La Programación Orientada a Objetos (OOP, en inglés Object Oriented Programming) es uno de los principales paradigmas de programación utilizado en la actualidad. Se basa en la abstracción del mundo real, y en el reutilización y encapsulación de código para resolver problemas. Las características principales de OOP son la herencia, Herencia, Polimorfismo, Abstracción y Encapsulamiento.
+
+La Herencia es el concepto por el cual una clase hereda sus atributos y métodos de otra clase (la clase padre). Esto significa que una subclase puede reutilizar el código de la clase original sin tener que volver a escribirlo. Esta característica permite a los programadores crear jerarquías de clases similares que pueden reutilizar código compartiendo atributos y métodos.
+
+La Polimorfismo es una idea relacionada a la herencia en la cual una clase puede encontrarse en diferentes formas. Esto significa que una misma clase puede comportarse de diferentes maneras según el contexto. Esta característica permite a los programadores crear y organizar código de manera eficiente.
+
+La Abstracción es un proceso por el cual los programadores definen atributos y métodos relevantes para una clase sin entrar en detalles irrelevantes. Esto significa que el programador se centra en los aspectos importantes de los elementos para lograr un mejor rendimiento en términos de memoria y velocidad.
+
+El Encapsulamiento es un mecanismo por el cual los programadores pueden proteger los atributos de la clase de acceso externo. Esto
